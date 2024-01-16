@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidTask2</string>
+    <string name="name">Artem Ilendzeier</string>
+    <string name="position">Android Developer</string>
+    <string name="biography">I am a passionate Android developer dedicated to crafting robust and user-friendly mobile applications. With a keen eye for detail and a commitment to staying at the forefront of technological advancements, I specialize in creating seamless and innovative experiences for Android users. My expertise encompasses the entire app development lifecycle, from concept to deployment, ensuring each project meets the highest standards of performance, functionality, and design. With a love for problem-solving and a constant pursuit of excellence, I thrive in the dynamic world of Android development, where my skills contribute to bringing ideas to life in the digital realm. Let`s build the next generation of mobile experiences together.</string>
+    <string name="email">artemilendzeier@gmail.com</string>
+    <string name="phone">+380978625952</string>
+</resources>
