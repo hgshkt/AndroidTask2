@@ -34,5 +34,19 @@
             motion:layout_constraintBottom_toBottomOf="@id/avatar"
             motion:layout_constraintEnd_toEndOf="@+id/text_biography"
             motion:layout_constraintStart_toEndOf="@+id/avatar"/>
+        <Constraint
+            android:id="@+id/text_biography"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:padding="4dp"
+            android:text="@string/biography"
+            android:textSize="15sp"
+            android:layout_marginStart="20dp"
+            motion:layout_constraintBottom_toTopOf="@id/phone_button"
+            motion:layout_constraintEnd_toEndOf="@+id/phone_button"
+            motion:layout_constraintHeight_percent="0.4"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/avatar"
+            />
     </ConstraintSet>
 </MotionScene>
